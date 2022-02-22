@@ -32,3 +32,6 @@ Running success check: A HelloWord.exe file in the folder appears
 *** Tips: ***
 To print out the program's result to the terminal instead of output:
 - Open Settings, search for 'Code Runner', check on "Whether to run code in Integrated Terminal".
+
+REFERENCE:
+- Hướng dẫn chạy C++ trên VS Code - https://www.youtube.com/watch?v=CZrQTNwdTKs&t=699s
