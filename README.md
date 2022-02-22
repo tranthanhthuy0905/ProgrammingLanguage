@@ -3,7 +3,7 @@
 ### PLP 1: Language overview and setup
 Before the end of the first day of class, you should have picked a language that you will learn this semester. Be sure to check with me so that I can approve your choice. Make sure you also put your name on the list (Links to an external site.).  This assignment has 2 parts: History and Getting Started.
 
-####History
+#### History
 Answer the following questions about your programming language:
 
 - What is the name of your language?
@@ -11,7 +11,7 @@ Answer the following questions about your programming language:
 - What types of programming is your language primarily used for (ex: web sites, video games, mobile devices, parsing, etc.)? If your language is multi-purpose, provide some examples of different projects it's been used for.
 - Where will you get information about this language when it's time to start programming in it? At the end of your assignment, provide a list of the names of books, website URLs, or any other resources that relate to your language in particular.
 
-####Getting Started
+#### Getting Started
 Now that you've picked a language and learned about its history and uses, it's time to actually get it set up and use it.  To do this you must:
 
 - Install your programming language and anything else that it needs to run (a programming environment or something similar)
