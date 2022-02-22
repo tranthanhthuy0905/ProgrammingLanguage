@@ -1,0 +1,34 @@
+HISTORY
+1. What is the name of your language?
+C++ (C Plus Plus) 
+
+2. When/where was it created, and by whom? Was it written to address a particular problem or need?
+C++ is a middle-level language created by Bjarne Stroustrup as a development in C family in 1985. 
+The language was born when the author realized lots of limitations of the current languages such as 
+the slowness of Simula, the low-level factor of BCPL, etc. He took advantage of his experience in 
+working with C language during his PhD education to develop C++ basement. It emerged with the purpose
+of maximizing the performance, the efficiency and flexibility of use of system and software resources. 
+
+3. What types of programming is your language primarily used for (ex: web sites, video games, mobile 
+devices, parsing, etc.)? If your language is multi-purpose, provide some examples of different projects
+it's been used for.
+C++ is a general-purpose programming language.
+Types of programming: game programming, software engineering, data structures, developing browsers,
+operating systems, applications, ...
+
+4. Where will you get information about this language when it's time to start programming in it?
+At the end of your assignment, provide a list of the names of books, website URLs, or any other 
+resources that relate to your language in particular.
+Sources: Youtube (CodeBeauty, FreeCodeCamp, Simplilearn); Text (Tutorialspoint, W3Schools, C++.com,
+javatpoint)
+
+GETTING STARTEDs
+1. Install VSCode
+2. Install C/C++, Code Runner extensions
+3. Run the program: Right Click => Run code
+Running success check: A HelloWord.exe file in the folder appears
+4. Stop the program: Right Click => Stop code
+
+*** Tips: ***
+To print out the program's result to the terminal instead of output:
+- Open Settings, search for 'Code Runner', check on "Whether to run code in Integrated Terminal".
