@@ -22,7 +22,7 @@ resources that relate to your language in particular.
 Sources: Youtube (CodeBeauty, FreeCodeCamp, Simplilearn); Text (Tutorialspoint, W3Schools, C++.com,
 javatpoint)
 
-GETTING STARTEDs
+GETTING STARTED
 1. Install VSCode
 2. Install C/C++, Code Runner extensions
 3. Run the program: Right Click => Run code
