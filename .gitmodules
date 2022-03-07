@@ -4,3 +4,9 @@
 [submodule "Lab3"]
 	path = Lab3
 	url = https://github.com/tranthanhthuy0905/Lab3
+[submodule "PLP2"]
+	path = PLP2
+	url = https://github.com/tranthanhthuy0905/PLP2.git
+[submodule "PLP02"]
+	path = PLP02
+	url = https://github.com/tranthanhthuy0905/PLP02.git
