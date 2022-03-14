@@ -10,3 +10,9 @@
 [submodule "PLP02"]
 	path = PLP02
 	url = https://github.com/tranthanhthuy0905/PLP02.git
+[submodule "Lab4-"]
+	path = Lab4-
+	url = https://github.com/tranthanhthuy0905/Lab4-.git
+[submodule "Lab4"]
+	path = Lab4
+	url = https://github.com/tranthanhthuy0905/Lab4.git
