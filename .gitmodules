@@ -19,3 +19,6 @@
 [submodule "Lab5c"]
 	path = Lab5c
 	url = https://github.com/tranthanhthuy0905/Lab5c.git
+[submodule "PLP3"]
+	path = PLP3
+	url = https://github.com/tranthanhthuy0905/PLP3.git
