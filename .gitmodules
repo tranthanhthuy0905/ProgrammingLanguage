@@ -22,3 +22,9 @@
 [submodule "PLP3"]
 	path = PLP3
 	url = https://github.com/tranthanhthuy0905/PLP3.git
+[submodule "MidtermProject"]
+	path = MidtermProject
+	url = https://github.com/tranthanhthuy0905/MidtermProject.git
+[submodule "PLP4"]
+	path = PLP4
+	url = https://github.com/tranthanhthuy0905/PLP4.git
