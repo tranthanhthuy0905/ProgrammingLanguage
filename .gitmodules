@@ -28,3 +28,6 @@
 [submodule "PLP4"]
 	path = PLP4
 	url = https://github.com/tranthanhthuy0905/PLP4.git
+[submodule "PLP05"]
+	path = PLP05
+	url = https://github.com/tranthanhthuy0905/PLP05.git
