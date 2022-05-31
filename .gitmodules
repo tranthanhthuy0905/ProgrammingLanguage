@@ -31,3 +31,6 @@
 [submodule "PLP05"]
 	path = PLP05
 	url = https://github.com/tranthanhthuy0905/PLP05.git
+[submodule "FinalProjectPLP"]
+	path = FinalProjectPLP
+	url = https://github.com/tranthanhthuy0905/FinalProjectPLP.git
